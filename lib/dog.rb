@@ -34,5 +34,5 @@ class Person
     @job = newJob
   end
 end
-  def job
-    @
+    
+    
